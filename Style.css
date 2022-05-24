@@ -1,0 +1,10 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #cf1831;
+}
+#carrer {
+  background-color: #fcf6f7;
+}
